@@ -1,0 +1,11 @@
+name: Hartburn-smp
+version: 1.21.3
+main: io.github.luttje.firstplugin.FirstPlugin
+description: Hartburn smp plugin complexxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+author: Olibot13
+api-version: '1.20'
+
+commands:
+  killsleft:
+    description: Shows how many kills are needed to earn the next heart
+    usage: /killsleft
